@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "type": "commonjs",
+  "name": "cjs",
+  "version": "1.0.0",
+  "description": "CJS versions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "author": "Nicolas DUBIEN <github@dubien.org>",
+  "license": "MIT"
+}
