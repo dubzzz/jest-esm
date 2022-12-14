@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "type": "module",
+  "name": "mjs",
+  "version": "1.0.0",
+  "description": "MJS versions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "author": "Nicolas DUBIEN <github@dubien.org>",
+  "license": "MIT"
+}
